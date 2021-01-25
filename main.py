@@ -9,7 +9,7 @@ if __name__ == "__main__":
   data.normalize_data('minmax')
 
   # Specify number input/output nodes
-  input_nodes = data.X_traiAddn.shape[1]
+  input_nodes = data.X_train.shape[1]
   output_nodes = data.y_train.shape[1]
 
   # Specify network structure
