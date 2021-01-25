@@ -14,7 +14,7 @@ $ python main.py
 ```
 There are some areas within `main.py` that can be played around with.
 
-`DatasetReader` takes in parameters `digits` `iris` or `breast_cancer`
+`DatasetReader` takes in parameters `digits` `iris` or `breast_cancer`  
 `normalize_data` takes in parameters `minmax` or `standard`
 ```python
 data = DatasetReader(name='digits')
