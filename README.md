@@ -1,7 +1,7 @@
 # Neural Network Implementation
 
 ## About the project
-Developed a multi layer neural network that supports minibatching using numpy. Its functionality is currently restricted to classifcation problems. It's currently set up to be trained on MNIST, iris, and breast_cancer which are loaded through sklearn. Prints the train/validation of each epoch in terminal, and history plots are also displayed after training.
+Developed a multi layer neural network that supports using numpy. Its functionality is currently restricted to classifcation problems. It's currently set up to be trained on MNIST, iris, and breast_cancer which are loaded through sklearn. Prints the train/validation of each epoch in terminal, and history plots are also displayed after training.
 
 ## Usage
 Install necessary packages through
