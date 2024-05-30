@@ -27,8 +27,3 @@ layers = [[input_nodes, 'input'],
         [32, 'relu'],
         [output_nodes,'softmax']]
 ```
-
-
-This project is also available on [repl.it](https://repl.it/@eliaspk/Neural-Network-Implementation#main.py)
-To run on `replit` I was required to run `pip install pandas` and `pip install sklearn` in the shell since those dependencies were not automatically recognized and add package was not working either.
-In addition, I was required to run `python main.py` in the shell in order for the project to run.
